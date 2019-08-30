@@ -109,30 +109,8 @@ Step 4:
 
 -> Click on 'Create New Project' -> Click on 'Create'
 
-Download Source for the HTML Developemnt
------------------------------------------
--> go to "google"
 
--> type "naveen saggam"
-
--> go to "https://github.com/thenaveensaggam"
-
--> click on "HTML_Template"
-
--> Click on "Clone or Download" green color button
-
--> it downloads a '.zip' file
-
--> Extract the zip file
-
--> Open the webstorm IDE
-
--> click on file -> Open -> Paste the URL of the folder
--> Click OK.
-
-
-
-
+=============================
 
 
 
